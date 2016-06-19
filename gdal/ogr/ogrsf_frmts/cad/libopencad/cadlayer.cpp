@@ -29,6 +29,8 @@
  *  SOFTWARE.
  *******************************************************************************/
 #include <iostream>
+#include <memory>
+
 #include "cadlayer.h"
 #include "cadfile.h"
 
